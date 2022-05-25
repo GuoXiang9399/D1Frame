@@ -1,0 +1,59 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 10:
+;
+;   Kumar S, Stecher G, Li M, Knyaz C, Tamura K
+;   MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms
+;   Molecular Biology and Evolution (2018) 35:1547-1549
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 10.1.8
+	Build                                   = 10200331-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = linux
+
+[General Info]
+
+	Data Type                               = nucleotide (non-coding)
+	No. of Taxa                             =     1485
+	No. of Sites                            =     1485
+	Data File                               = 'D1.GV.20200329.fas'
+	Settings File                           = './distance_estimation_within_grp_avg_nucleotide.mao'
+	Command Line                            = /usr/lib/megax/megacc -a distance_estimation_within_grp_avg_nucleotide.mao -d D1.GV.20200329.fas -g GV.BAPS.L1.txt -o D1GV_E_Group_L1_Within_Avg.txt
+
+[Analysis Settings]
+
+	Analysis                                = Distance Estimation
+	Scope                                   = Within group average
+	Variance Estimation Method              = Bootstrap method
+	No. of Bootstrap Replications           = 1000
+	Substitutions Type                      = Nucleotide
+	Model/Method                            = p-distance
+	Substitutions to Include                = d: Transitions + Transversions
+	Rates among Sites                       = Uniform Rates
+	Gamma Parameter                         = Not Applicable
+	Pattern among Lineages                  = Same (Homogeneous)
+	Gaps/Missing Data Treatment             = Pairwise deletion
+	Site Coverage Cutoff (%)                = Not Applicable
+	Has Time Limit                          = False
+	Maximum Execution Time                  = -1
+	datatype                                = snNucleotide
+	containsCodingNuc                       = False
+	MissingBaseSymbol                       = ?
+	IdenticalBaseSymbol                     = .
+	GapSymbol                               = -
+	Labelled Sites                          = All Sites
+	Labels to Include                       = 
+
+[Analysis Statistics]
+
+	Start Time                              = 2021年10月17日 下午 08时08分15秒 下午
+	End Time                                = 2021年10月17日 下午 09时35分38秒 下午
+	Execution Time                          = 5243.021 (seconds)
+	Max Heap Memory Used                    = 15.261 (MB)
