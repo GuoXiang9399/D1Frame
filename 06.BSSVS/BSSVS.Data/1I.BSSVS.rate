@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Cambodia.Vietnam
+mean	0.97
+stderr_of_mean	0.0103
+stdev	0.9784
+variance	0.9572
+median	0.6573
+value_range	"[3.2718E-5,_8.9279]"
+geometric_mean	0.5469
+95%_HPD_interval	"[3.2718E-5,_2.9383]"
+auto-correlation_time_(ACT)	20000
+effective_sample_size_(ESS)	9001
+number_of_samples	9001

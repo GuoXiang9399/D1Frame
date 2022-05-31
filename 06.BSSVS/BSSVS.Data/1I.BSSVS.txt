@@ -1,0 +1,2 @@
+FROM	TO	BAYES_FACTOR	POSTERIOR_PROBABILITY
+Cambodia	Vietnam	-Infinity	1.0

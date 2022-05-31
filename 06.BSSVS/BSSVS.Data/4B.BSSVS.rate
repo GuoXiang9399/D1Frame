@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Australia.China	states.rates.Australia.Indonesia	states.rates.Australia.Vietnam	states.rates.China.Indonesia	states.rates.China.Vietnam	states.rates.Indonesia.Vietnam
+mean	0.9349	1.0551	0.8969	1.0652	0.8989	1.0716
+stderr_of_mean	9.98E-03	9.76E-03	9.75E-03	9.57E-03	9.73E-03	9.48E-03
+stdev	0.931	0.9003	0.9053	0.8872	0.9235	0.899
+variance	0.8668	0.8105	0.8196	0.7871	0.8528	0.8082
+median	0.6503	0.8025	0.6184	0.8167	0.6075	0.8222
+value_range	"[9.0104E-5,_9.5553]"	"[4.377E-4,_9.063]"	"[2.4945E-5,_9.549]"	"[2.8554E-4,_9.5423]"	"[3.175E-5,_11.2537]"	"[5.9538E-3,_8.5964]"
+geometric_mean	0.5232	0.7206	0.5074	0.7493	0.4973	0.7504
+95%_HPD_interval	"[9.0104E-5,_2.8287]"	"[1.4622E-3,_2.8188]"	"[2.4945E-5,_2.7034]"	"[4.918E-3,_2.8338]"	"[3.175E-5,_2.7078]"	"[5.9538E-3,_2.822]"
+auto-correlation_time_(ACT)	20698.4884	21170.3474	20889.2051	20970.5359	20000	20011.8656
+effective_sample_size_(ESS)	8697.3	8503.4	8617.8	8584.4	9001	8995.7
+number_of_samples	9001	9001	9001	9001	9001	9001

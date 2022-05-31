@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Australia.Cambodia	states.rates.Australia.China	states.rates.Australia.Singapore	states.rates.Australia.Thailand	states.rates.Cambodia.China	states.rates.Cambodia.Singapore	states.rates.Cambodia.Thailand	states.rates.China.Singapore	states.rates.China.Thailand	states.rates.Singapore.Thailand
+mean	0.9112	1.0221	1.0353	0.9181	0.9162	0.9221	1.2021	0.9837	1.0558	0.9038
+stderr_of_mean	9.81E-03	9.59E-03	0.0104	0.0101	0.01	0.0101	9.95E-03	8.62E-03	9.22E-03	9.90E-03
+stdev	0.9311	0.8428	0.9845	0.956	0.952	0.9616	0.9299	0.8182	0.8506	0.9397
+variance	0.8669	0.7104	0.9693	0.9139	0.9063	0.9247	0.8646	0.6695	0.7235	0.883
+median	0.6214	0.7954	0.7501	0.6181	0.6087	0.618	0.9592	0.7628	0.8347	0.6014
+value_range	"[9.2592E-5,_11.5834]"	"[4.7832E-4,_7.3518]"	"[9.8695E-5,_9.6845]"	"[1.4514E-4,_11.7576]"	"[6.9819E-5,_8.0856]"	"[2.8277E-5,_9.9222]"	"[7.0144E-3,_8.3899]"	"[1.7477E-4,_6.9738]"	"[1.8404E-3,_8.2408]"	"[5.1923E-6,_9.818]"
+geometric_mean	0.5003	0.7161	0.6085	0.5033	0.5016	0.5036	0.8841	0.6755	0.7505	0.4925
+95%_HPD_interval	"[9.2592E-5,_2.778]"	"[1.4553E-3,_2.7308]"	"[9.8695E-5,_2.9498]"	"[1.4514E-4,_2.7806]"	"[6.9819E-5,_2.8133]"	"[2.8277E-5,_2.7647]"	"[7.0144E-3,_3.061]"	"[1.7477E-4,_2.63]"	"[1.8404E-3,_2.7002]"	"[5.1923E-6,_2.7288]"
+auto-correlation_time_(ACT)	20000	23288.7692	20000	20000	20000	20000	20597.7501	20000	21157.9287	20000
+effective_sample_size_(ESS)	9001	7729.9	9001	9001	9001	9001	8739.8	9001	8508.4	9001
+number_of_samples	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001

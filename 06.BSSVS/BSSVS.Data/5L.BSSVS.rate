@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Argentina.Brazil	states.rates.Argentina.NA	states.rates.Argentina.Virgin_Islands	states.rates.Brazil.NA	states.rates.Brazil.Virgin_Islands	states.rates.NA.Virgin_Islands
+mean	1.865	0.8919	0.8119	0.8336	0.6661	0.839
+stderr_of_mean	0.0127	8.05E-03	9.25E-03	9.74E-03	6.97E-03	9.47E-03
+stdev	1.1781	0.7601	0.8646	0.9011	0.6608	0.8988
+variance	1.388	0.5777	0.7475	0.812	0.4367	0.8079
+median	1.6077	0.6858	0.5418	0.5386	0.4742	0.538
+value_range	"[0.0395,_11.5498]"	"[1.5578E-3,_7.0838]"	"[5.1872E-5,_9.8491]"	"[1.3013E-4,_9.201]"	"[2.3441E-6,_8.5497]"	"[3.3656E-5,_9.1282]"
+geometric_mean	1.5221	0.6188	0.4472	0.4403	0.422	0.4428
+95%_HPD_interval	"[0.1448,_4.178]"	"[1.5578E-3,_2.366]"	"[5.1872E-5,_2.5195]"	"[1.3013E-4,_2.641]"	"[2.3441E-6,_1.9408]"	"[3.3656E-5,_2.6438]"
+auto-correlation_time_(ACT)	21030.5722	20219.0029	20601.3705	21052.9538	20000	20000
+effective_sample_size_(ESS)	8559.9	8903.5	8738.3	8550.8	9001	9001
+number_of_samples	9001	9001	9001	9001	9001	9001

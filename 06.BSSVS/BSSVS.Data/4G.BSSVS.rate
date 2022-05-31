@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Australia.Fiji	states.rates.Australia.Marshall_Islands	states.rates.Australia.Micronesia	states.rates.Australia.Papua_New_Guinea	states.rates.Australia.Solomon_Islands	states.rates.Fiji.Marshall_Islands	states.rates.Fiji.Micronesia	states.rates.Fiji.Papua_New_Guinea	states.rates.Fiji.Solomon_Islands	states.rates.Marshall_Islands.Micronesia	states.rates.Marshall_Islands.Papua_New_Guinea	states.rates.Marshall_Islands.Solomon_Islands	states.rates.Micronesia.Papua_New_Guinea	states.rates.Micronesia.Solomon_Islands	states.rates.Papua_New_Guinea.Solomon_Islands
+mean	1.006	0.9686	0.9496	0.9421	1.2133	0.9748	0.9585	0.9393	1.051	1.0946	0.9287	0.9923	0.9397	0.9589	0.8999
+stderr_of_mean	9.96E-03	0.01	0.0105	8.08E-03	0.0106	9.88E-03	0.0104	0.0102	9.29E-03	0.0102	0.0102	9.84E-03	0.0104	9.54E-03	9.50E-03
+stdev	0.9176	0.9519	0.9501	0.767	0.9807	0.9375	0.9554	0.9635	0.881	0.8899	0.9602	0.9333	0.9628	0.9055	0.8315
+variance	0.842	0.9061	0.9026	0.5882	0.9617	0.879	0.9128	0.9284	0.7761	0.7918	0.922	0.8711	0.927	0.8199	0.6914
+median	0.7454	0.6916	0.6622	0.739	0.9711	0.6991	0.6638	0.6265	0.819	0.8668	0.6258	0.7371	0.6314	0.6935	0.665
+value_range	"[7.3734E-5,_8.453]"	"[1.4655E-6,_8.2589]"	"[5.5357E-5,_11.9606]"	"[1.7681E-3,_7.3372]"	"[9.2084E-6,_8.7094]"	"[8.8636E-5,_8.0464]"	"[3.5852E-4,_9.2448]"	"[7.5878E-5,_8.7407]"	"[1.2948E-4,_7.9219]"	"[4.8158E-4,_7.306]"	"[4.216E-5,_9.9014]"	"[2.7261E-4,_10.4655]"	"[4.0337E-5,_8.5025]"	"[7.0733E-5,_7.0322]"	"[3.1889E-5,_8.5562]"
+geometric_mean	0.6175	0.5524	0.5453	0.6697	0.8186	0.5694	0.5495	0.512	0.7051	0.7571	0.5063	0.6011	0.5139	0.5712	0.5735
+95%_HPD_interval	"[7.3734E-5,_2.8534]"	"[1.4655E-6,_2.8244]"	"[5.5357E-5,_2.822]"	"[1.7681E-3,_2.433]"	"[9.2084E-6,_3.1132]"	"[8.8636E-5,_2.8611]"	"[3.5852E-4,_2.7843]"	"[4.5753E-4,_2.8901]"	"[1.2948E-4,_2.7801]"	"[4.8158E-4,_2.8853]"	"[4.216E-5,_2.8604]"	"[2.7261E-4,_2.8405]"	"[4.0337E-5,_2.92]"	"[7.0733E-5,_2.7218]"	"[2.2785E-4,_2.502]"
+auto-correlation_time_(ACT)	21212.208	20000	22080.1691	20000	21133.7825	20000	21128.6562	20000	20000	23728.9697	20291.5882	20000	21106.3459	20000	23513.4398
+effective_sample_size_(ESS)	8486.6	9001	8153	9001	8518.1	9001	8520.2	9001	9001	7586.5	8871.7	9001	8529.2	9001	7656
+number_of_samples	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001

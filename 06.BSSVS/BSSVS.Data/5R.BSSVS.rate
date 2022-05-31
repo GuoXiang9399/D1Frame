@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Argentina.Brazil	states.rates.Argentina.China	states.rates.Argentina.Paraguay	states.rates.Brazil.China	states.rates.Brazil.Paraguay	states.rates.China.Paraguay
+mean	1.6778	0.8415	0.8656	0.8824	0.8436	0.8419
+stderr_of_mean	0.0117	9.53E-03	8.17E-03	8.22E-03	9.74E-03	9.39E-03
+stdev	1.1116	0.9047	0.7446	0.7581	0.924	0.8907
+variance	1.2357	0.8184	0.5545	0.5747	0.8538	0.7934
+median	1.4287	0.5448	0.6555	0.6768	0.54	0.5517
+value_range	"[0.0564,_9.1575]"	"[4.768E-5,_10.4395]"	"[3.2529E-3,_7.87]"	"[6.0686E-4,_7.7042]"	"[3.4573E-6,_8.2302]"	"[2.1034E-4,_7.5874]"
+geometric_mean	1.3419	0.4486	0.6008	0.6026	0.4395	0.4495
+95%_HPD_interval	"[0.0973,_3.8416]"	"[4.768E-5,_2.6279]"	"[0.0131,_2.3305]"	"[3.4006E-3,_2.3512]"	"[3.4573E-6,_2.6559]"	"[2.1034E-4,_2.6664]"
+auto-correlation_time_(ACT)	20000	20000	21682.4382	21163.4062	20000	20000
+effective_sample_size_(ESS)	9001	9001	8302.6	8506.2	9001	9001
+number_of_samples	9001	9001	9001	9001	9001	9001

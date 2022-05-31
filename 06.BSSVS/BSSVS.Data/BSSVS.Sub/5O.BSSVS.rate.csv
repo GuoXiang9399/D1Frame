@@ -1,0 +1,12 @@
+Summary Statistic	states.meanRate
+mean	0.0411
+stderr of mean	3.135E-4
+stdev	9.5149E-3
+variance	9.0534E-5
+median	0.0402
+value range	[0.0169, 0.0902]
+geometric mean	0.04
+95% HPD interval	[0.0237, 0.0601]
+auto-correlation time (ACT)	1.9545E5
+effective sample size (ESS)	921
+number of samples	9001

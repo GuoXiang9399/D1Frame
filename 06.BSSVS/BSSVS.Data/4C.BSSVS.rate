@@ -1,0 +1,12 @@
+Summary_Statistic	states.rates.Angola.Australia	states.rates.Angola.China	states.rates.Angola.Philippines	states.rates.Angola.Singapore	states.rates.Australia.China	states.rates.Australia.Philippines	states.rates.Australia.Singapore	states.rates.China.Philippines	states.rates.China.Singapore	states.rates.Philippines.Singapore
+mean	0.9477	0.8896	0.717	0.9045	0.9176	0.737	0.9076	1.6536	1.2887	0.895
+stderr_of_mean	9.87E-03	9.85E-03	7.01E-03	0.0102	0.0101	7.47E-03	0.0101	0.0112	0.0107	9.88E-03
+stdev	0.9151	0.9217	0.6229	0.9382	0.9529	0.7034	0.9516	1.044	0.9875	0.9372
+variance	0.8373	0.8495	0.388	0.8802	0.9081	0.4947	0.9055	1.09	0.9752	0.8783
+median	0.6735	0.5983	0.5463	0.6031	0.6113	0.536	0.5978	1.4144	1.0513	0.595
+value_range	"[1.8817E-5,_11.6286]"	"[6.0255E-5,_9.2866]"	"[2.2299E-3,_7.3708]"	"[2.8124E-5,_9.9636]"	"[6.3876E-6,_9.4068]"	"[2.2296E-4,_8.9801]"	"[1.316E-4,_12.3978]"	"[0.0218,_9.4014]"	"[2.9163E-4,_9.1172]"	"[1.2874E-4,_8.4214]"
+geometric_mean	0.5513	0.4844	0.4946	0.4895	0.5026	0.4748	0.4932	1.3563	0.9334	0.4862
+95%_HPD_interval	"[1.8817E-5,_2.7546]"	"[6.0255E-5,_2.7473]"	"[9.8846E-3,_1.942]"	"[2.3563E-4,_2.8468]"	"[6.3876E-6,_2.8629]"	"[6.3805E-4,_2.099]"	"[1.316E-4,_2.8325]"	"[0.179,_3.7228]"	"[6.5425E-3,_3.2667]"	"[1.2874E-4,_2.7672]"
+auto-correlation_time_(ACT)	20944.737	20565.7666	22793.3666	21159.095	20424.8407	20290.3912	20183.705	20888.3957	21154.8477	20000
+effective_sample_size_(ESS)	8595	8753.4	7897.9	8507.9	8813.8	8872.2	8919.1	8618.2	8509.6	9001
+number_of_samples	9001	9001	9001	9001	9001	9001	9001	9001	9001	9001
